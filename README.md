@@ -1,4 +1,4 @@
-![FeedFlow - Animal Feed Trading and Shop Management Software](assets/feedflow-banner.png)
+![FeedFlow - Animal Feed Trading and Shop Management Software](assets/feedflow-banner-v2.png)
 
 <div align="center">
 
