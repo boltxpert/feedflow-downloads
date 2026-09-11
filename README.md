@@ -1,3 +1,5 @@
+![FeedFlow - Animal Feed Trading and Shop Management Software](assets/feedflow-banner.png)
+
 <div align="center">
 
 # FeedFlow — Animal Feed Trading & Shop Management Software
