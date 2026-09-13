@@ -52,11 +52,16 @@ Hide customer phone numbers, financial details and private credentials.
 
 ## Availability & getting started
 
-**Public installers have not yet been published in this repository.**
+**Version 1.0.6 is available for Windows and Android.**
 
-[Check the release page](https://github.com/boltxpert/feedflow-downloads/releases) or [contact us for a demo and availability](https://wa.me/923133454060?text=Hello%2C%20please%20share%20FeedFlow%20demo%20and%20installation%20details.). Intended distributions are **Windows Host**, **Windows Client** and **Android Client**.
+| Platform | Application | Download |
+| --- | --- | --- |
+| Windows | Host & Client — one combined installer containing both applications | [Download FeedFlow Setup](https://github.com/boltxpert/feedflow-downloads/releases/download/v1.0.6/FeedFlow_Setup_v1.0.6.exe) |
+| Android | Client | [Download FeedFlow Client APK](https://github.com/boltxpert/feedflow-downloads/releases/download/v1.0.6/FeedFlowClient_v1.0.6.apk) |
 
-For setup, confirm your license, prepare the shop's Host computer, then pair staff devices on the same Wi-Fi/LAN and assign individual user accounts.
+[Release notes and SHA-256 checksums](https://github.com/boltxpert/feedflow-downloads/releases/tag/v1.0.6) · [Product page and current downloads](https://boltxpert.com/feedflow)
+
+For setup, confirm your license and supported devices, use the combined Windows installer for Host and Client, then pair staff devices on the same Wi-Fi/LAN and assign individual user accounts.
 
 ## Licensing, terms & responsible use
 
